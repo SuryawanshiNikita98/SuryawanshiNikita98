@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+My+Universe+%F0%9F%8C%9F;I'm+Nikita+Suryawanshi+%F0%9F%91%8B;Innovator+%7C+Developer+%7C+Learner;Let's+Create+Something+Amazing!" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Caprasimo&size=30&pause=1000&color=9E52F7&center=true&width=550&lines=Welcome+to+My+Universe+%F0%9F%8C%9F;I'm+Nikita+Suryawanshi+%F0%9F%91%8B;Innovator+%7C++Developer+%7C+Learner;Let's+build+Something+Creative..+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="275"  />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
@@ -117,7 +117,7 @@
 - 🎮 **Gaming:** Love story mode high graphics games
 - 🌍 **Travel:** Dream to visit tech hubs around the world
 - 📚 **Reading:** Tech blogs, sci-fi novels, and programming books
-- 🎯 **Mission** Made in India Software Products
+- 🎯 **Mission:** Made in India Software Products
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
