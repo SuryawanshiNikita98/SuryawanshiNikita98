@@ -50,7 +50,8 @@
   <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
   <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
   <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.flaticon.com/free-icon/machine-learning_8637091?term=machine+learning&page=1&position=13&origin=tag&related_id=8637091" alt="tensorflow" width="40" height="40"/></a>
+  <a href="https://www.tensorflow.org" target="_blank"><img src=" https://www.vectorlogo.zone/logos/deepl/deepl-icon.svg" alt="tensorflow" width="40" height="40"/></a
+
 </div>
 
 ### **Development Tools**
