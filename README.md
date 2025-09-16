@@ -114,8 +114,12 @@
 
 <div align="center">
 
-[![AI Fundamentals](https://images.credly.com/size/110x110/images/8d3edc5f-4e8e-4f4f-9a3c-94d4f4c33130/image.png)](https://www.credly.com/badges/838e31ca-6b83-415e-bd87-dc95c60fdbbe/linked_in_profile)
-[![Build Your Own Chatbot - Level 1](https://images.credly.com/size/110x110/images/46a640ef-06c0-4fa7-b0dc-37e6c6c55c8f/image.png)](https://www.credly.com/badges/6a5c000e-1b59-4060-a19e-5504277aedef/linked_in_profile)
+![My Badge](https://drive.google.com/uc?export=view&id=1IoOZDdk4EDNXLKM9wa8-OHBcZ7HZhsWN)
+
+[![AI Fundamentals](https://images.credly.com/size/220x220/images/838e31ca-6b83-415e-bd87-dc95c60fdbbe/badge.png)](https://www.credly.com/badges/838e31ca-6b83-415e-bd87-dc95c60fdbbe/linked_in_profile)
+
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6a5c000e-1b59-4060-a19e-5504277aedef" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 [![Google Developer](https://img.shields.io/badge/Google%20Developer-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/profile/u/105969370601787437464)
 
 </div>
