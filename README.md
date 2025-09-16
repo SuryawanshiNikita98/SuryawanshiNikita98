@@ -114,13 +114,8 @@
 
 <div align="center">
 
-![My Badge](https://drive.google.com/uc?export=view&id=1IoOZDdk4EDNXLKM9wa8-OHBcZ7HZhsWN)
+![Badge](https://raw.githubusercontent.com/SuryawanshiNikita98/SuryawanshiNikita98/main/assets/c1.png)
 
-[![AI Fundamentals](https://images.credly.com/size/220x220/images/838e31ca-6b83-415e-bd87-dc95c60fdbbe/badge.png)](https://www.credly.com/badges/838e31ca-6b83-415e-bd87-dc95c60fdbbe/linked_in_profile)
-
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6a5c000e-1b59-4060-a19e-5504277aedef" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-[![Google Developer](https://img.shields.io/badge/Google%20Developer-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/profile/u/105969370601787437464)
 
 </div>
 
