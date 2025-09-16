@@ -110,14 +110,39 @@
   
 </div>
 
+
+
+
 ## 🏆 **Certifications & Profiles**
 
 <div align="center">
 
-![Badge](https://raw.githubusercontent.com/SuryawanshiNikita98/SuryawanshiNikita98/main/assets/c1.png)
-
+  <a href="asset/c1.png" target="_blank">
+    <img src="asset/c1.png"  height="120" />
+  </a>
+  <a href="asset/c2.png" target="_blank">
+    <img src="asset/c2.png"  height="120" />
+  </a>
+  <a href="asset/c3.png" target="_blank">
+    <img src="asset/c3.png" height="120" />
+  </a>
+  <a href="asset/c4.png">
+    <img src="asset/c4.png" alt="Certification 4" height="120" />
+  </a>
+  <a href="asset/c5.png">
+    <img src="asset/c5.png" alt="Certification 5" height="120" />
+  </a>
+  <a href="asset/c6.png">
+    <img src="asset/c6.png" alt="Certification 6" height="120" />
+  </a>
+  <a href="asset/c7.png">
+    <img src="asset/c7.png" alt="Certification 7" height="120" />
+  </a>
 
 </div>
+
+
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
