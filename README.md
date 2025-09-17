@@ -113,7 +113,7 @@
 
 
 
-## 🏆 **Certifications & Profiles**
+## 🏆 **Certifications **
 
 <div align="center">
 
